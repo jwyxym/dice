@@ -5,7 +5,7 @@ A small Vue 3 dice roller library with a component and a function API.
 ## Install
 
 ```bash
-npm install dice
+npm install @jwyxym/dice
 ```
 
 ## Usage
