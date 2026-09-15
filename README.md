@@ -11,8 +11,8 @@ npm install @jwyxym/dice
 ## Usage
 
 ```ts
-import { rollDice } from 'dice'
-import 'dice/style.css'
+import { rollDice } from '@jwyxym/dice'
+import '@jwyxym/dice/style.css'
 
 const result = await rollDice({
   sides: 6,
